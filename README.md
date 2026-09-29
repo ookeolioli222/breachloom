@@ -1,4 +1,4 @@
-# Breachloom — Web Security & Bug Bounty Labs in the Browser
+# Breachloom — Web Security & Bug Bounty Practice in the Browser
 
 **Practice web and API security in your browser.** No VM, no Docker, no broken lab setups — open a
 challenge and start in seconds. Every scenario is a safe simulation of a fictional app, so you learn real
@@ -7,7 +7,7 @@ techniques without touching anyone's systems.
 🔗 **Live: https://breachloom.com**
 
 ## What's inside
-- **81 CTF challenges** across IDOR/BOLA, XSS, SQL injection, SSRF, JWT, CSRF, prototype pollution,
+- **81 challenges** across IDOR/BOLA, XSS, SQL injection, SSRF, JWT, CSRF, prototype pollution,
   NoSQL injection, GraphQL BOLA, file upload and race conditions.
 - **18 CodeOps missions** — you don't just exploit the bug, you *fix the vulnerable code* and the server
   verifies your fix.
